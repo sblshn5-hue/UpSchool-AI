@@ -1,0 +1,6 @@
+{
+  "name": "Career & Interview Coach Agent",
+  "description": "Mülakatçının unvanına özel soru ve perspektif analizi üreten, eğitim geçmişinize göre bir sonraki adım eğitim ve gelişim yol haritasını çizen akıllı kariyer koçu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
